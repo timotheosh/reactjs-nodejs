@@ -1,0 +1,5 @@
+#+TITLE: noderest
+* What is this?
+A simple React app that shows a random quote and its author. All data is stored in a PostgreSQL database.
+* Usage
+You have to set up a database. I used PostgreSQL, but the SQL script for creating the table and inserting data could be used in any ANSI SQL database.
